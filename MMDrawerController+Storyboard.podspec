@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "MMDrawerController+Storyboard"
   s.version      = "0.0.2"
   s.summary      = "Storyboard category extension for MMDrawerController"
-  s.homepage     = "https://github.com/TomSwift/MMDrawerController-Storyboard"
+  s.homepage     = "https://github.com/chrits/MMDrawerController-Storyboard"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Nick Hodapp" => "nicholashodapp@gmail.com" }
   s.source       = { :git => "https://github.com/Chrits/MMDrawerController-Storyboard.git", :tag => "s.version.to_s" }
