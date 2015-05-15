@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/chrits/MMDrawerController-Storyboard"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Nick Hodapp" => "nicholashodapp@gmail.com" }
-  s.source       = { :git => "https://github.com/Chrits/MMDrawerController-Storyboard.git", :tag => "s.version.to_s" }
+  s.source       = { :git => "https://github.com/Chrits/MMDrawerController-Storyboard.git" }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
   s.description  = <<-DESC
