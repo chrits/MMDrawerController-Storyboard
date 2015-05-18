@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MMDrawerController+Storyboard"
-  s.version      = "0.0.2"
+  s.version      = "1.0.2"
   s.summary      = "Storyboard category extension for MMDrawerController"
   s.homepage     = "https://github.com/chrits/MMDrawerController-Storyboard"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
